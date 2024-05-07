@@ -1,0 +1,47 @@
+﻿  CountryTrips.cpp
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(17,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'CountryTrips.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(19,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'CountryTrips.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(20,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'CountryTrips.cpp')
+  
+  HotTrips.cpp
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(17,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'HotTrips.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(19,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'HotTrips.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(20,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'HotTrips.cpp')
+  
+  lr1.2.cpp
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(17,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lr1.2.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(19,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lr1.2.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(20,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lr1.2.cpp')
+  
+  NoSearchedPlace.cpp
+  Place.cpp
+  TouristQuide.cpp
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(17,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TouristQuide.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(19,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TouristQuide.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.h(20,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TouristQuide.cpp')
+  
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.cpp(35,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.cpp(55,82): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\lr1.2\TouristQuide.cpp(68,82): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  lr1.2.vcxproj -> C:\Users\rti\Desktop\collage\Курсова\Лр13\lr1.13\x64\Debug\lr1.2.exe
